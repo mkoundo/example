@@ -5,3 +5,5 @@ def greeting(name):
 myname = 'John'
 
 greeting(myname)
+
+print(myname)
